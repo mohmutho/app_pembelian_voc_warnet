@@ -1,0 +1,17 @@
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\bin\Debug\Project_Individu.exe.config
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\bin\Debug\Project_Individu.exe
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\bin\Debug\Project_Individu.pdb
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\bin\Debug\Project_Individu.xml
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.vbprojResolveAssemblyReference.cache
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.frm_login_as.resources
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.frm_login.resources
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.Form3.resources
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.frm_admin.resources
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.Resources.resources
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.vbproj.GenerateResource.Cache
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.vbproj.CoreCompileInputs.cache
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.exe
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.xml
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.pdb
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.frm_daftar.resources
+D:\kuliah STT PLN\Semester 3\Pemrograman Visual\data project\Project_Individu\Project_Individu\obj\Debug\Project_Individu.frm_pembeli.resources
